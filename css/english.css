@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&display=swap');
+
+body{
+    background-color: skyblue;
+
+    font-family: "Courgette", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+h1{
+    width: 300px;
+    height: 80px;
+    background-color: brown;
+}
